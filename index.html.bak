@@ -77,7 +77,7 @@
                         <div class="flex-grow-1">
                             <h3 class="mb-0">Information Engineering and Business Organization</h3>
                             <div class="subheading mb-3">University of Trento (IT)</div>
-							<p ><a href="/iTelescope.pdf" download>Thesis</a> &#x2192; iTelescope: automatic image recognition for land surveillance applications using drones. The thesis is part of the <a href="https://www.granelli-lab.org/researches/relevant-projects/davoss">NATO DAVOSS</a> project
+							<p ><a href="./iTelescope.pdf" download>Thesis</a> &#x2192; iTelescope: automatic image recognition for land surveillance applications using drones. The thesis is part of the <a href="https://www.granelli-lab.org/researches/relevant-projects/davoss">NATO DAVOSS</a> project
                         </div>
                         <div class="flex-shrink-0"><span class="text-primary">2018 - 2021</span></div>
                     </div>
